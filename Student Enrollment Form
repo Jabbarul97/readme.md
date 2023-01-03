@@ -1,0 +1,14 @@
+{
+    "token": "90938198|-31949272848953778|90954818",
+    "cmd": "PUT",
+    "dbName": "STUDENT-TABLE",
+    "rel": "SCHOOL-DB",
+    "jsonStr": {
+        "Roll-No": "1",
+        "Full-Name": "Jabbarul",
+        "Class": "10+2",
+        "Birth-Date": "20/04/2005",
+        "Address": "Arbetai,Nakashpara,Nadia",
+        "Enrollment-Date": "786"
+    }
+}
