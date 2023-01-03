@@ -1,0 +1,14 @@
+{
+    "token": "90938198|-31949272848953778|90954818",
+    "cmd": "PUT",
+    "dbName": "SHIPMENT-TABLE",
+    "rel": "DELIVERY-DB",
+    "jsonStr": {
+        "Shipment-No": "654",
+        "Description": "Google Pixel 6a (Chalk, 128 GB)  (6 GB RAM)",
+        "Source": "Delhi",
+        "Destination": "Kolkata",
+        "Shipping-Date": "03/01/2023",
+        "Expected-Delivery-Date": "10/01/2023",
+    }
+}
